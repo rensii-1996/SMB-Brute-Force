@@ -3,7 +3,7 @@
 
 ## 🤔 What is this?
 
-**FastSMB** is a tool for brute force attacks on the Server Message Block (SMB) on the Windows operating system, which allows users to remotely connect to computers and servers. This tool is written in C# programming language.
+**FastSMB** is a tool for brute force attacks on the Server Message Block (SMB) on the Windows operating system, which allows users to remotely connect to computers and servers.SMB is Widely used is windows environments for file sharing and network resorce access. This tool is written in C# programming language.
 
 ---
 
